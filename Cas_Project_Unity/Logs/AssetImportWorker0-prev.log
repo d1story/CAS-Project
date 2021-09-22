@@ -178,3 +178,4 @@ Received Import Request.
 Start importing Assets/fonts/Trebuchet-MS-Italic.ttf using Guid(a372e8e451d603144abdfc8bb7b0c5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92f0d3656e7623547ca5db93caaae3e8') in 0.018904 seconds 
   Import took 0.028618 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
